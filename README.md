@@ -1,2 +1,2 @@
 # ncaa-march-madness-predictor-
-a uni project that creates multiple machine learning models that predict the final standings of march madness as well as a full data science/machine learning project workflow
+A multi-class classification study predicting NCAA tournament outcomes across 8 postseason stages using historical college basketball team statistics (2013–2023). The work addresses significant class imbalance inherent to single-elimination formats, where late-round classes are severely underrepresented. A Decision Tree classifier achieved the best accuracy of 44.1%, consistent with the stochastic nature of tournament upsets and the limited sample size of deep-run historical instances.
